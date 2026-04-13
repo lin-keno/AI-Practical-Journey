@@ -15,7 +15,7 @@ A journey to become an AI practitioner-recording projects, code,and growth
 - **[项目二：强化学习游戏AI]** (计划中)：使用Q-learning训练一个简单的游戏智能体。
 
 ## 📈 成长足迹
-- 我的详细学习笔记与技术思考，记录在：[技术日志]
+- 我的详细学习笔记与技术思考，记录在：https://github.com/lin-keno/tech-journal
 
 ## 📫 如何联系我
 - 邮箱 3527921601@qq.com
